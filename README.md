@@ -1,5 +1,5 @@
 # HoverSDK
-HoverSDK is a very simple Android app built with the Hover SDK
+HoverSDK App is a very simple Android app built with the Hover SDK
 
 # Prerequisites
 Hover Account
